@@ -1,0 +1,31 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma;
+	font-size:11px;
+	color:#515151;
+}
+td.mid {
+	text-align: center;
+	vertical-align: middle;
+}
+form
+{
+	margin:0px;
+}
+a {
+
+	text-decoration: none;
+	color:#515151;
+}
+a.1
+{
+	color:#000000;
+	text-decoration:underline;
+}
+.v10
+{
+	color:#929292;
+	font-family:Verdana;
+	font-size:10px;
+}
